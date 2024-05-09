@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm George Kostopoulos</h1>
 <h3 align="center">A passionate backend developer from Greece</h3>
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **Modular Monoliths**
 
 - 💬 Ask me about **.NET**
 
-- 📫 How to reach me **georgios.kst@gmail.com**
+- 📫 How to reach me **George.Kst@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
